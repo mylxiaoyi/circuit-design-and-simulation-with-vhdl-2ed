@@ -1,0 +1,4 @@
+v 4
+file . "nand.vhdl" "a4e91dd11a46120dc74b8f35cd8555c1610f83a3" "20220203013301.458":
+  entity nand_gate at 1( 0) + 0 on 11;
+  architecture arch of nand_gate at 6( 80) + 0 on 12;
